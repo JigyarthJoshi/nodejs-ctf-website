@@ -26,7 +26,7 @@
 // connectToDatabase();
 
 // app.get('/check_message', (req, res) => {
-//     res.send("GET nahi POST API hit karo baba 😀");
+//     res.send("GET nahi POST API hit karo baba");
 // });
 
 // app.post('/check_message', async (req, res) => {
