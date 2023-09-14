@@ -54,7 +54,7 @@
 //         console.log(`Inserted ${result.insertedCount} document into the collection`);
 
 //         if (message === "Space technology in the service of mankind.") {
-//             res.json({ message: `Congrats, ${name}! The message is correct.` });
+//             res.json({ message: `Congrats, ${name}! The message is correct. You have successfully completed all the stages of this challenge. You are a champion!🏆` });
 //         } else {
 //             res.status(400).json({ message: 'Sorry, the message is incorrect.' });
 //         }
